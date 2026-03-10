@@ -25,4 +25,4 @@ Run the program:
 java StudentManagementGUI
 
 ## Data Storage
-Student records are stored in a file called Students.txt.
+Student records are stored in a file called Student.
