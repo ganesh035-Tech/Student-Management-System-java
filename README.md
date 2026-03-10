@@ -1,6 +1,6 @@
 # Student Management System (Java)
 
-This project is a simple Student Management System developed using Java Swing and file handling with crude operations.
+This project is a simple Student Management System developed using Java Swing and file handling with crud operations.
 
 ## Features
 - Add Student
