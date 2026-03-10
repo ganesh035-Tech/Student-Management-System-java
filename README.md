@@ -1,2 +1,28 @@
-# Student-Management-System-java
-student management system built using java swing and file handling
+# Student Management System (Java)
+
+This project is a simple Student Management System developed using Java Swing.
+
+## Features
+- Add Student
+- Search Student
+- Update Student
+- Delete Student
+- Display All Students
+
+## Technologies Used
+- Java
+- Java Swing
+- File Handling
+
+## How to Run
+
+Compile the program:
+
+javac StudentManagementGUI.java
+
+Run the program:
+
+java StudentManagementGUI
+
+## Data Storage
+Student records are stored in a file called Students.txt.
